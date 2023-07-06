@@ -2,9 +2,9 @@
 
 
 
-🔭 I’m currently working on mobile development
-🌱 I’m currently learning Flutter
-📫 How to reach me: manuelaossanes@gmail.com
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: manuelaossanes@gmail.com
 
 <div>
   <a href="https://github.com/manuabigsz"/>
