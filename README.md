@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá pessoal! 👋
 
 
 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning Flutter
+- 🔭 Atualmente estou trabalhando em desenvolvimento Mobile
+- 🌱 Atualmente estou aprendendo Flutter e React
 - 📫 How to reach me: manuelaossanes@gmail.com
 
 <div>
