@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento Mobile
 - 🌱 Atualmente estou aprendendo Flutter e React
-- 📫 How to reach me: manuelaossanes@gmail.com
+- 📫 Entre em contato comigo: manuelaossanes@gmail.com
 
 <div>
   <a href="https://github.com/manuabigsz"/>
