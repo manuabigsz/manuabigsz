@@ -20,4 +20,4 @@
 </div>
 
     
-![Snake animation](https://github.com/manuabigsz/manuabigsz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/manuabigsz/blob/output/github-contribution-grid-snake.svg)
