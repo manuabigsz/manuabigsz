@@ -1,7 +1,7 @@
 ### Olá pessoal! 👋
 
-- 🔭 Atualmente estou trabalhando em desenvolvimento Mobile
-- 🌱 Atualmente estou aprendendo Flutter e React
+- 🔭 Atualmente estou trabalhando em desenvolvimento FullStack
+- 🌱 Atualmente estou aprendendo Flutter, Next.js, Python
 - 📫 Entre em contato comigo: [manuelaossanes@gmail.com](mailto:manuelaossanes@gmail.com)
 
 ---
