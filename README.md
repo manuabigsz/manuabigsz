@@ -8,11 +8,19 @@
 - 📫 Entre em contato comigo: manuelaossanes@gmail.com
     </td>
     <td>
-      <div> 
-  <a href = "mailto:manuelaossanes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manuela-bertella-ossanes-690166204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuabigsz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=manuabigsz&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
     </td>
   </tr>
 </table>
@@ -21,7 +29,11 @@
 
 
 <br/>
-
+      <div> 
+  <a href = "mailto:manuelaossanes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/manuela-bertella-ossanes-690166204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 ### 🏆 GitHub Profile Trophy
