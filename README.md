@@ -1,12 +1,12 @@
 ### Olá pessoal! 👋
 
-<table>
-  <tr>
-    <td>
-      - 🔭 Atualmente estou trabalhando em desenvolvimento Mobile
+- 🔭 Atualmente estou trabalhando em desenvolvimento Mobile
 - 🌱 Atualmente estou aprendendo Flutter e React
 - 📫 Entre em contato comigo: manuelaossanes@gmail.com
-    </td>
+- 
+<table>
+  <tr>
+   
     <td>
 <img
         align="left"
