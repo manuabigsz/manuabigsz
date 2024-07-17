@@ -15,7 +15,7 @@
       />
     </td>
     <td>
-      <br />
+ 
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=manuabigsz&theme=dark&hide_border=false"
