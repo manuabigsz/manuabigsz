@@ -24,8 +24,8 @@
 ---
 
 <div align="center">
-  <h3><b>🏆 GitHub Profile Trophy</b></h3>
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=manuabigsz&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <h3><b> GitHub Stats Trophy</b></h3>
+  ![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manuabigsz&show_icons=true&theme=dracula&hide=stars,issues)]
 </div>
 
 ---
