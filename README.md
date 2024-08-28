@@ -24,8 +24,8 @@
 ---
 
 <div align="center">
-  <h3><b> GitHub Stats Trophy</b></h3>
-  ![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manuabigsz&show_icons=true&theme=dracula&hide=stars,issues)]
+  <h3><b>GitHub Stats Trophy</b></h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=manuabigsz&show_icons=true&theme=dracula&hide=stars,issues" alt="Manu's GitHub stats">
 </div>
 
 ---
