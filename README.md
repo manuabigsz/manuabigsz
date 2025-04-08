@@ -9,12 +9,10 @@
 ---
 
 ### 🛠️ Sobre mim:
-- 🔭 Atualmente trabalho como **Desenvolvedora FullStack**  
-- 🌱 Estou aprendendo e aprimorando habilidades em **Flutter, Next.js, Python, PHP, Laravel**  
-- 🎯 Sempre buscando novas tecnologias e desafios interessantes  
-- 💡 Apaixonada por criar soluções criativas e inovadoras  
-- 💬 Se quiser bater um papo sobre tecnologia, estou sempre aberta a novas conexões! 😃  
-
+- 🔭 No momento: Mergulhando no universo FullStack, construindo projetos que unem funcionalidade e criatividade.
+- 🌱 Aprendendo: Flutter, Next.js, Python, PHP e Laravel — porque o céu é o limite (e até lá eu chego com código!).
+- 💡 Paixão: Transformar ideias em realidade com linhas de código e um café forte ao lado.
+- 📫 Fale comigo: manuelaossanes@hotmail.com — estou sempre aberta a novas conexões e desafios!
 ---
 
 ### 🚀 Tecnologias & Ferramentas que uso:
