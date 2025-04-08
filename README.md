@@ -1,16 +1,15 @@
-### Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!  
+### Olá, eu sou a Manuela!
 
 💻 FullStack Developer | Apaixonada por IA | Sempre aprendendo coisas novas  
 
 ---
 
-### 🛠️ Sobre mim:
-- 🔭 Atualmente trabalho como **Desenvolvedora FullStack**  
-- 🌱 Estou aprendendo e aprimorando habilidades em **Flutter, Next.js, Python, PHP, Laravel**  
-- 🎯 Sempre buscando novas tecnologias e desafios interessantes  
-- 💡 Adoro por criar soluções criativas e inovadoras  
-- 💬 Se quiser bater um papo sobre tecnologia, estou sempre aberta a novas conexões! 😃  
+<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Aceno animado"/> <p><i>Desenvolvedora FullStack apaixonada por criar soluções incríveis e aprender algo novo todos os dias!</i></p> </div>
 
+    🔭 No momento: Mergulhando no universo FullStack, construindo projetos que unem funcionalidade e criatividade.
+    🌱 Aprendendo: Flutter, Next.js, Python, PHP e Laravel — porque o céu é o limite (e até lá eu chego com código!).
+    💡 Paixão: Transformar ideias em realidade com linhas de código e um café forte ao lado.
+    📫 Fale comigo: manuelaossanes@hotmail.com — estou sempre aberta a novas conexões e desafios!
 ---
 
 ### 🚀 Tecnologias & Ferramentas que uso:
@@ -30,7 +29,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuabigsz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <div align="center"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> </div>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuabigsz&theme=dark&hide_border=false" alt="GitHub Streak" />
