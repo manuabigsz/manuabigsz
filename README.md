@@ -1,6 +1,6 @@
 ### Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!  
 
-💻 FullStack Developer | 🎨 Apaixonada por UI/UX | 🚀 Sempre aprendendo coisas novas  
+💻 FullStack Developer | Apaixonada por IA | Sempre aprendendo coisas novas  
 
 ---
 
@@ -8,7 +8,7 @@
 - 🔭 Atualmente trabalho como **Desenvolvedora FullStack**  
 - 🌱 Estou aprendendo e aprimorando habilidades em **Flutter, Next.js, Python, PHP, Laravel**  
 - 🎯 Sempre buscando novas tecnologias e desafios interessantes  
-- 💡 Apaixonada por criar soluções criativas e inovadoras  
+- 💡 Adoro por criar soluções criativas e inovadoras  
 - 💬 Se quiser bater um papo sobre tecnologia, estou sempre aberta a novas conexões! 😃  
 
 ---
