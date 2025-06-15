@@ -19,12 +19,6 @@
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,python,php,laravel,postgresql,mysql,docker,figma,linux,git" height="40">
 </div>
-
----
-
-### 🌟 Projetos em Destaque:
-🚧 *Atualmente em construção... em breve novidades!* 🚧  
-
 ---
 
 <picture>
@@ -34,6 +28,11 @@
 </picture>
 
 ![snake gif](https://github.com/manuabigsz/manuabigsz/blob/output/github-snake-dark.svg)
+
+---
+
+### 🌟 Projetos em Destaque:
+🚧 *Atualmente em construção... em breve novidades!* 🚧  
 
 ---
 
