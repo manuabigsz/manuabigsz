@@ -10,7 +10,7 @@
 
 ### 🛠️ Sobre mim:
 - 🔭 No momento: Mergulhando no universo FullStack, construindo projetos que unem funcionalidade e criatividade.
-- 🌱 Aprendendo: Flutter, Next.js, Python, PHP e Laravel — porque o céu é o limite (e até lá eu chego com código!).
+- 🌱 Aprendendo: Flutter, Next.js, Python, PHP e Laravel, porque o céu é o limite (e até lá eu chego com código!).
 - 💡 Paixão: Transformar ideias em realidade com linhas de código e um café forte ao lado.
 - 📫 Fale comigo: manuelaossanes@hotmail.com — estou sempre aberta a novas conexões e desafios!
 ---
