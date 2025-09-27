@@ -1,4 +1,4 @@
-### Olá, eu sou a Manuela!
+### Olá, eu sou a Manuela!!
 
 💻 FullStack Developer | Apaixonada por IA | Sempre aprendendo coisas novas  
 
