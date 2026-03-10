@@ -52,6 +52,13 @@
 
 ---
 
+### 😂 Piadas de Dev
+Aqui uma piadinha aleatória (em PT-BR!):
+
+<img src="https://readme-jokes.vercel.app/api?lang=pt&theme=dracula" alt="Piada de Dev" style="max-width: 100%;"/>
+
+---
+
 ### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuabigsz&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" style="margin: 10px;"/>
