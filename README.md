@@ -1,6 +1,6 @@
 # Manuela Bertella Ossanes 👋
 
-💻 **FullStack Developer** | Apaixonada por IA
+💻 **FullStack Developer**
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Aceno"/>
